@@ -43,6 +43,10 @@ body{
 	display: block;
 }
 
+.sidebar-links-section  {
+	padding: 10px 0px 10px 0px;
+}
+
 a.nav-link {
 	padding-bottom: 5px;
 	padding-top: 7px;
@@ -99,8 +103,12 @@ article .share .gplus:hover {
 }
 
 .page-header {
-	color: #e74c3c;
+	color: #2c3e50;
 	/* text-shadow: 1px 1px 1px rgba(150, 150, 150, 1); */
+}
+
+.page-title {
+	padding-left: 5%
 }
 
 @media only screen and (min-width: 768px) {
@@ -140,20 +148,20 @@ article.home h4,
 article.home h5,
 article.home h6 {
 	font-family: 'Ubuntu', sans-serif;
-	color: #f2756a;
+	color: #2c3e50;
 }
 
 article.home h1 a,
 article.home h2 a,
 article.home h3 a,
 article.home h4 a {
-	color: #f2756a;
+	color: #2c3e50;
 }
 article.home h1 a:hover,
 article.home h2 a:hover,
 article.home h3 a:hover,
 article.home h4 a:hover {
-	color: #e74c3c;
+	color: #2c3e50;
 }
 
 .author .author-image {

@@ -1,0 +1,33 @@
+# Site settings
+title: Andrew Bennett
+email: contact@andydrew.uk
+url: https://andydrew.uk
+description: ""
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#1d9b6c;'
+
+# Footer settings
+footer: Andrew Bennett
+
+# To enable google analytics, supply your token below
+analytics-google: 'UA-137808199-2'
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/zifiy
+  - title: github
+    url: https://github.com/andrew-bennett
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Do you want to show the "read time" of the posts?
+read-time: true
+
+# Related posts inside a post?
+related: true
